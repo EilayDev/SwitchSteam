@@ -1,5 +1,5 @@
 # SwitchSteam
-##HOW TO USE
+## HOW TO USE
 Edit the .bat file with your prefered text editor and add your steam usernames after the "set account1=" and "set account2="
 For example:
 
